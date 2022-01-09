@@ -69,3 +69,106 @@
         // Only needed if this page is going to be embedded on other websites
         parent: ["embed.example.com", "othersite.example.com"]
       });
+
+
+      new Twitch.Embed("twitch-embed", {
+        width: 400,
+        height: 550,
+        channel: "thesalva23",
+        // Only needed if this page is going to be embedded on other websites
+        parent: ["embed.example.com", "othersite.example.com"]
+      });
+
+
+      new Twitch.Embed("twitch-embed", {
+        width: 400,
+        height: 550,
+        channel: "thegxlles",
+        // Only needed if this page is going to be embedded on other websites
+        parent: ["embed.example.com", "othersite.example.com"]
+      });
+
+
+      new Twitch.Embed("twitch-embed", {
+        width: 400,
+        height: 550,
+        channel: "alafirmeshow",
+        // Only needed if this page is going to be embedded on other websites
+        parent: ["embed.example.com", "othersite.example.com"]
+      });
+
+
+      new Twitch.Embed("twitch-embed", {
+        width: 400,
+        height: 550,
+        channel: "allg16",
+        // Only needed if this page is going to be embedded on other websites
+        parent: ["embed.example.com", "othersite.example.com"]
+      });
+
+
+      new Twitch.Embed("twitch-embed", {
+        width: 400,
+        height: 550,
+        channel: "gluup_",
+        // Only needed if this page is going to be embedded on other websites
+        parent: ["embed.example.com", "othersite.example.com"]
+      });
+
+
+      new Twitch.Embed("twitch-embed", {
+        width: 400,
+        height: 550,
+        channel: "kingkc0mt",
+        // Only needed if this page is going to be embedded on other websites
+        parent: ["embed.example.com", "othersite.example.com"]
+      });
+
+
+      new Twitch.Embed("twitch-embed", {
+        width: 400,
+        height: 550,
+        channel: "iamaze",
+        // Only needed if this page is going to be embedded on other websites
+        parent: ["embed.example.com", "othersite.example.com"]
+      });      
+
+
+      new Twitch.Embed("twitch-embed", {
+        width: 400,
+        height: 550,
+        channel: "jimmyojimbo",
+        // Only needed if this page is going to be embedded on other websites
+        parent: ["embed.example.com", "othersite.example.com"]
+      });
+
+
+      new Twitch.Embed("twitch-embed", {
+        width: 400,
+        height: 550,
+        channel: "lildutyy",
+        // Only needed if this page is going to be embedded on other websites
+        parent: ["embed.example.com", "othersite.example.com"]
+      });
+
+
+      new Twitch.Embed("twitch-embed", {
+        width: 400,
+        height: 550,
+        channel: "chintoy",
+        // Only needed if this page is going to be embedded on other websites
+        parent: ["embed.example.com", "othersite.example.com"]
+      });
+
+
+
+
+
+
+
+
+
+
+
+
+
