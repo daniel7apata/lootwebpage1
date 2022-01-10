@@ -1,5 +1,5 @@
 
-      new Twitch.Embed("twitch-embed", {
+      new Twitch.Player("twitch-embed", {
         width: 400,
         height: 550,
         channel: "twzerman",
@@ -8,7 +8,7 @@
       });
            
 
-      new Twitch.Embed("twitch-embed", {
+      new Twitch.Player("twitch-embed", {
         width: 400,
         height: 550,
         channel: "neol3gend",
@@ -17,7 +17,7 @@
       });  
 
 
-      new Twitch.Embed("twitch-embed", {
+      new Twitch.Player("twitch-embed", {
         width: 400,
         height: 550,
         channel: "michantoo",
@@ -26,7 +26,7 @@
       });          
         
 
-      new Twitch.Embed("twitch-embed", {
+      new Twitch.Player("twitch-embed", {
         width: 400,
         height: 550,
         channel: "stuuckyt_",
@@ -35,7 +35,7 @@
       });
      
 
-      new Twitch.Embed("twitch-embed", {
+      new Twitch.Player("twitch-embed", {
         width: 400,
         height: 550,
         channel: "leu_w",
@@ -46,7 +46,7 @@
         
 
 
-      new Twitch.Embed("twitch-embed", {
+      new Twitch.Player("twitch-embed", {
         width: 400,
         height: 550,
         channel: "darehumanz",
@@ -54,7 +54,7 @@
         parent: ["embed.example.com", "othersite.example.com"]
       });      
  
-      new Twitch.Embed("twitch-embed", {
+      new Twitch.Player("twitch-embed", {
         width: 400,
         height: 550,
         channel: "marc_pleasant",
@@ -62,7 +62,7 @@
         parent: ["embed.example.com", "othersite.example.com"]
       });
 
-      new Twitch.Embed("twitch-embed", {
+      new Twitch.Player("twitch-embed", {
         width: 400,
         height: 550,
         channel: "dazastr",
@@ -71,7 +71,7 @@
       });
 
 
-      new Twitch.Embed("twitch-embed", {
+      new Twitch.Player("twitch-embed", {
         width: 400,
         height: 550,
         channel: "thesalva23",
@@ -80,7 +80,7 @@
       });
 
 
-      new Twitch.Embed("twitch-embed", {
+      new Twitch.Player("twitch-embed", {
         width: 400,
         height: 550,
         channel: "thegxlles",
@@ -89,7 +89,7 @@
       });
 
 
-      new Twitch.Embed("twitch-embed", {
+      new Twitch.Player("twitch-embed", {
         width: 400,
         height: 550,
         channel: "alafirmeshow",
@@ -98,7 +98,7 @@
       });
 
 
-      new Twitch.Embed("twitch-embed", {
+      new Twitch.Player("twitch-embed", {
         width: 400,
         height: 550,
         channel: "allg16",
@@ -107,7 +107,7 @@
       });
 
 
-      new Twitch.Embed("twitch-embed", {
+      new Twitch.Player("twitch-embed", {
         width: 400,
         height: 550,
         channel: "gluup_",
@@ -116,7 +116,7 @@
       });
 
 
-      new Twitch.Embed("twitch-embed", {
+      new Twitch.Player("twitch-embed", {
         width: 400,
         height: 550,
         channel: "kingkc0mt",
@@ -125,7 +125,7 @@
       });
 
 
-      new Twitch.Embed("twitch-embed", {
+      new Twitch.Player("twitch-embed", {
         width: 400,
         height: 550,
         channel: "iamaze",
@@ -134,7 +134,7 @@
       });      
 
 
-      new Twitch.Embed("twitch-embed", {
+      new Twitch.Player("twitch-embed", {
         width: 400,
         height: 550,
         channel: "jimmyojimbo",
@@ -143,7 +143,7 @@
       });
 
 
-      new Twitch.Embed("twitch-embed", {
+      new Twitch.Player("twitch-embed", {
         width: 400,
         height: 550,
         channel: "lildutyy",
@@ -152,9 +152,8 @@
       });
 
 
-      new Twitch.Embed("twitch-embed", {
-        width: 400,
-        height: 550,
+      new Twitch.Player("twitch-embed", {
+       
         channel: "chintoy",
         // Only needed if this page is going to be embedded on other websites
         parent: ["embed.example.com", "othersite.example.com"]
