@@ -111,8 +111,13 @@
      
        
      
- <div id="general">         
-     <div id="derecha">
+ <div id="general">   
+   
+   
+   
+   
+   
+     <div id="izquierda">
        <div id="twitch-embed"></div>   
        <script src="https://embed.twitch.tv/embed/v1.js"></script>
        <script>
@@ -125,6 +130,28 @@
       });
          </script>
       </div>
+   
+   
+   
+   <div id="derecha">
+       <div id="twitch-embed"></div>   
+       <script src="https://embed.twitch.tv/embed/v1.js"></script>
+       <script>
+      new Twitch.Player("twitch-embed", {
+        width: 455,
+        height: 256,
+        channel: "neol3gend",
+        // Only needed if this page is going to be embedded on other websites
+        parent: ["embed.example.com", "othersite.example.com"]
+      });
+         </script>
+      </div>
+   
+   
+   
+   
+   
+   
    </div>
           
   
