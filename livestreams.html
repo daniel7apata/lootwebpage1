@@ -109,15 +109,22 @@
   <br>
    
      
-       
-     
- <div id="general">       
+        
+ 
+<div id="general">   
+      <script src="https://embed.twitch.tv/embed/v1.js"></script>
   
+     <script>
+      new Twitch.Player("derecha", {
+        width: 455,
+        height: 256,
+        channel: "twzerman",
+        // Only needed if this page is going to be embedded on other websites
+        parent: ["embed.example.com", "othersite.example.com"]
+       });
+      </script> 
    
-      <div id="derecha">
-       <iframe src="https://player.twitch.tv/?channel=twzerman&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
-      </div>
-   
+   <div id="derecha"></div>
       
    
        
