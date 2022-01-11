@@ -115,15 +115,22 @@
     
       
    <!-- Add a placeholder for the Twitch embed -->
-<div id="derecha"><div id="str1"></div></div>
+<div id="izquierda"><div id="str1"></div></div>
+<div id="derecha"><div id="str2"></div></div>
 
 <!-- Load the Twitch embed script -->
 <script src="https://player.twitch.tv/js/embed/v1.js"></script>
 
-<!-- Create a Twitch.Player object. This will render within the placeholder div -->
+<!-- aqui van todos los nombres de los streamers -->
 <script type="text/javascript">
   new Twitch.Player("str1", {
     channel: "twzerman",
+    width: "455px",
+    height: "256px",
+  });
+  
+   new Twitch.Player("str2", {
+    channel: "neol3gend",
     width: "455px",
     height: "256px",
   });
