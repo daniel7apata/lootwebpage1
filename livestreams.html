@@ -26,7 +26,7 @@
                    
           div#derecha{
             margin-top: 10px;
-            margin-left: 545px;
+            float: right;
             width: 455px;
             height: 256px;
             background-color: green;
@@ -111,23 +111,25 @@
      
        
      
- <div id="general">      
-   
-       <div id="twitch-embed"></div>   
-       <script src="https://embed.twitch.tv/embed/v1.js"></script>
-   
-   
-   
-   <div id="derecha">
-       <script>
-      new Twitch.Player("twitch-embed", {
+ <div id="general">   
+      <script src="https://embed.twitch.tv/embed/v1.js"></script>
+     <script>
+      new Twitch.Player("twzerman", {
         width: 455,
         height: 256,
         channel: "twzerman",
         // Only needed if this page is going to be embedded on other websites
         parent: ["embed.example.com", "othersite.example.com"]
-      });
-         </script>
+       });
+      </script>
+   
+       
+      
+   
+   
+   
+      <div id="derecha">
+       <div id="twzerman"></div>  
       </div>
    
       
