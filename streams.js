@@ -23,7 +23,7 @@ new Twitch.Player("str1", {
       new Twitch.Player("str4", {
         width: 455,
         height: 256,
-        channel: "twzerman",
+        channel: "darehumanz",
         // Only needed if this page is going to be embedded on other websites
         parent: ["embed.example.com", "othersite.example.com"]
       });
@@ -32,7 +32,7 @@ new Twitch.Player("str1", {
       new Twitch.Player("str5", {
            width: 455,
         height: 256,
-        channel: "darehumanz",
+        channel: "twzerman",
         // Only needed if this page is going to be embedded on other websites
         parent: ["embed.example.com", "othersite.example.com"]
       });        
