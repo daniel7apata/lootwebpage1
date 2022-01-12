@@ -14,7 +14,7 @@ new Twitch.Player("str1", {
    new Twitch.Player("str3", {
         width: 455,
         height: 256,
-        channel: "twzerman",
+        channel: "marc_pleasant",
         // Only needed if this page is going to be embedded on other websites
         parent: ["embed.example.com", "othersite.example.com"]
       });          
@@ -23,7 +23,7 @@ new Twitch.Player("str1", {
       new Twitch.Player("str4", {
         width: 455,
         height: 256,
-        channel: "marc_pleasant",
+        channel: "twzerman",
         // Only needed if this page is going to be embedded on other websites
         parent: ["embed.example.com", "othersite.example.com"]
       });
@@ -32,7 +32,7 @@ new Twitch.Player("str1", {
       new Twitch.Player("str5", {
            width: 455,
         height: 256,
-        channel: "neol3gend",
+        channel: "darehumanz",
         // Only needed if this page is going to be embedded on other websites
         parent: ["embed.example.com", "othersite.example.com"]
       });        
@@ -41,7 +41,7 @@ new Twitch.Player("str1", {
       new Twitch.Player("str6", {
           width: 455,
         height: 256,
-        channel: "darehumanz",
+        channel: "stuuckyt_",
         // Only needed if this page is going to be embedded on other websites
         parent: ["embed.example.com", "othersite.example.com"]
       });      
@@ -49,7 +49,7 @@ new Twitch.Player("str1", {
       new Twitch.Player("str7", {
            width: 455,
         height: 256,
-        channel: "stuuckyt_",
+        channel: "neol3gend",
         // Only needed if this page is going to be embedded on other websites
         parent: ["embed.example.com", "othersite.example.com"]
       });
@@ -57,7 +57,7 @@ new Twitch.Player("str1", {
       new Twitch.Player("str8", {
            width: 455,
         height: 256,
-        channel: "dazastr",
+        channel: "thegxlles",
         // Only needed if this page is going to be embedded on other websites
         parent: ["embed.example.com", "othersite.example.com"]
       });
@@ -66,7 +66,7 @@ new Twitch.Player("str1", {
       new Twitch.Player("str9", {
            width: 455,
         height: 256,
-        channel: "thesalva23",
+        channel: "kingkc0mt",
         // Only needed if this page is going to be embedded on other websites
         parent: ["embed.example.com", "othersite.example.com"]
       });
@@ -75,7 +75,7 @@ new Twitch.Player("str1", {
       new Twitch.Player("str10", {
          width: 455,
         height: 256,
-        channel: "thegxlles",
+        channel: "dazastr",
         // Only needed if this page is going to be embedded on other websites
         parent: ["embed.example.com", "othersite.example.com"]
       });
@@ -102,7 +102,7 @@ new Twitch.Player("str1", {
       new Twitch.Player("str13", {
         width: 455,
         height: 256,
-        channel: "gluup_",
+        channel: "chintoy",
         // Only needed if this page is going to be embedded on other websites
         parent: ["embed.example.com", "othersite.example.com"]
       });
@@ -111,7 +111,7 @@ new Twitch.Player("str1", {
       new Twitch.Player("str14", {
         width: 455,
         height: 256,
-        channel: "kingkc0mt",
+        channel: "thesalva23",
         // Only needed if this page is going to be embedded on other websites
         parent: ["embed.example.com", "othersite.example.com"]
       });
@@ -147,7 +147,7 @@ new Twitch.Player("str1", {
       new Twitch.Player("str18", {
         width: 455,
         height: 256,   
-        channel: "chintoy",
+        channel: "gluup_",
         // Only needed if this page is going to be embedded on other websites
         parent: ["embed.example.com", "othersite.example.com"]
       });
