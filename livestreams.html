@@ -38,16 +38,32 @@
           }
           
           
-           .progress {
-                height: 10px;
-            }
           
-            .progress .progress-bar { animation: animate-positive 33s;}            
+          
+          
+          
+          
+          
+      .progress .progress-bar {  animation: animate-positive 34s;  opacity: 0; }             
 
-            @-webkit-keyframes animate-positive { 0%{  width: 0;  } }
+       @-webkit-keyframes animate-positive 
+	    {          
+	    0% {  width: 0; }
+	    95% {  opacity: 1;  }
+      100% {  opacity: 0; }
+	    101% {  opacity: 0;	}
+	    }
 
-            @keyframes animate-positive { 0% {  width: 0; } }          
-                    
+       @keyframes animate-positive
+	   {
+      0% {  width: 0;  }
+	    1% {  opacity: 1; }
+    	95% { opacity: 1; }
+      100% {  opacity: 0; }
+	    101% { opacity: 0; }
+      }
+           
+    .progress{   height: 10px;   background: #090a0d; }                     
           
             
          </style>  
