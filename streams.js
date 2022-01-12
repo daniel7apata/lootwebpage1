@@ -1,11 +1,11 @@
 new Twitch.Player("str1", {
-    channel: "twzerman",
+    channel: "michantoo",
     width: "455px",
     height: "256px",
   });
   
    new Twitch.Player("str2", {
-    channel: "neol3gend",
+    channel: "leu_w",
     width: "455px",
     height: "256px",
   });
@@ -14,7 +14,7 @@ new Twitch.Player("str1", {
    new Twitch.Player("str3", {
         width: 455,
         height: 256,
-        channel: "michantoo",
+        channel: "twzerman",
         // Only needed if this page is going to be embedded on other websites
         parent: ["embed.example.com", "othersite.example.com"]
       });          
@@ -32,7 +32,7 @@ new Twitch.Player("str1", {
       new Twitch.Player("str5", {
            width: 455,
         height: 256,
-        channel: "leu_w",
+        channel: "neol3gend",
         // Only needed if this page is going to be embedded on other websites
         parent: ["embed.example.com", "othersite.example.com"]
       });        
