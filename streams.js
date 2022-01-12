@@ -23,7 +23,7 @@ new Twitch.Player("str1", {
       new Twitch.Player("str4", {
         width: 455,
         height: 256,
-        channel: "stuuckyt_",
+        channel: "marc_pleasant",
         // Only needed if this page is going to be embedded on other websites
         parent: ["embed.example.com", "othersite.example.com"]
       });
@@ -49,7 +49,7 @@ new Twitch.Player("str1", {
       new Twitch.Player("str7", {
            width: 455,
         height: 256,
-        channel: "marc_pleasant",
+        channel: "stuuckyt_",
         // Only needed if this page is going to be embedded on other websites
         parent: ["embed.example.com", "othersite.example.com"]
       });
