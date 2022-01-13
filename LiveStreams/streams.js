@@ -5,7 +5,7 @@ new Twitch.Player("str1", {
   });
   
    new Twitch.Player("str2", {
-    channel: "marc_pleasant",
+    channel: "darehumanz",
     width: "455px",
     height: "256px",
   });
@@ -23,7 +23,7 @@ new Twitch.Player("str1", {
       new Twitch.Player("str4", {
         width: 455,
         height: 256,
-        channel: "darehumanz",
+        channel: "marc_pleasant",
         // Only needed if this page is going to be embedded on other websites
         parent: ["embed.example.com", "othersite.example.com"]
       });
