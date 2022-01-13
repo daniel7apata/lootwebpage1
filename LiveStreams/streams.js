@@ -2,12 +2,14 @@ new Twitch.Player("str1", {
     channel: "michantoo",
     width: "455px",
     height: "256px",
+    parent: ["embed.example.com", "othersite.example.com"]
   });
   
    new Twitch.Player("str2", {
     channel: "marc_pleasant",
     width: "455px",
     height: "256px",
+    parent: ["embed.example.com", "othersite.example.com"]
   });
   
   
